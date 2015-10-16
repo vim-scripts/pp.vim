@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5259
+
+Use command 'P' to inspect objects and values, as you would use 'echo'. 
+Or use 'pp.dump(obj [, depth])' &/|| 'pp#print(...)'.
+
+(Images and colors ==>  https://github.com/romgrk/pp.vim <== over there )
+
+
